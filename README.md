@@ -1,5 +1,5 @@
 # Access Web Page
-https://github.com/pulijalasaiteja06/portfolio.git
+https://saitejapulijala.netlify.app/
 
 # Getting Started with Create React App
 
